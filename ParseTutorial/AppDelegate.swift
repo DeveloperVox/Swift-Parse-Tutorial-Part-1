@@ -1,8 +1,8 @@
+
 //
 //  AppDelegate.swift
 //  ParseTutorial
 //
-//  Created by Ian Bradbury on 04/02/2015.
 //  Copyright (c) 2015 bizzi-body. All rights reserved.
 //
 
@@ -15,6 +15,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 	func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+
+		Parse.setApplicationId("qY5IVl0TrKEql457j807eDjLPHKMeas9b0jhPS0R", clientKey:"cZXDeJu9p5FZhjDh7Ssw5DYMdhaSqHhBDr6hKyey")
+		
 		// Override point for customization after application launch.
 		return true
 	}

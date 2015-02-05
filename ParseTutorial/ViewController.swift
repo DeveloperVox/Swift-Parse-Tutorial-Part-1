@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  ParseTutorial
 //
-//  Created by Ian Bradbury on 04/02/2015.
 //  Copyright (c) 2015 bizzi-body. All rights reserved.
 //
 
